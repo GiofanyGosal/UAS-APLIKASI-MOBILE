@@ -1,6 +1,6 @@
 # Aplikasi Film
 
-Aplikasi ini merupakan aplikasi mobile yang bertujuan untuk menampilkan film-film yang sedang populer saat ini. Aplikasi ini menggunakan API atau data dari TMDB.
+Aplikasi ini merupakan aplikasi mobile yang bertujuan untuk menampilkan film-film yang sedang populer dan top rated saat ini. Aplikasi ini menggunakan API atau data dari TMDB.
 
 ## Link Demo & Aplikasi
 
