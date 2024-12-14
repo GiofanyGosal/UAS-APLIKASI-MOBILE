@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Warna Utama Aplikasi -->
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorAccent">#FFC107</color>
+
+    <!-- Warna Tambahan -->
+    <color name="grey_50">#FAFAFA</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="teal_700">#018786</color>
+    <color name="grey_200">#EEEEEE</color>
+
+    <!-- Warna Card -->
+    <color name="yellow_200">#F4D160</color>
+    <color name="yellow_100">#FBEEAC</color>
+
+    <!-- Background -->
+    <color name="backgroundColor">#FAFAFA</color>
+    <color name="cardBackgroundColor">#FFFFFF</color>
+
+    <!-- Warna Tambahan untuk Film Detail UI -->
+    <color name="primaryColor">#2196F3</color>
+    <color name="primaryText">#212121</color>
+    <color name="secondaryText">#757575</color>
+    <color name="background">#F5F5F5</color>
+</resources>

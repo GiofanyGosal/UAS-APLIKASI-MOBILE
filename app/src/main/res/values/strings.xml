@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AplikasiMovie</string>
+    <string name="most_popular_movie_label">Most Popular (Movie)</string>
+    <string name="app_name_label">AplikasiMovie</string>
+    <string name="film_detail_overview_label">Overview</string>
+    <string name="top_rated_movie_label">Top Rated (Movie)</string>
+    <string name="search_result_title">Hasil Pencarian</string>
+    <string name="search_hint">Cari Film</string>
+    <string name="recommended">Recommended</string>
+    <string name="similar">Similar</string>
+    <string name="cast">Cast</string>
+</resources>
